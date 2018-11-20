@@ -2,7 +2,7 @@
 
 Self-hosting installation instructions are detailed in the official Material Icons on section [Setup Method 2. Self hosting](https://google.github.io/material-design-icons/)
 
-Google has not updated font files in their [repo](https://github.com/google/material-design-icons/tree/master/iconfont) with the last [online-font](https://fonts.googleapis.com/icon?family=Material+Icons) version.
+Google has not updated font files in their [repo](https://github.com/google/material-design-icons/tree/master/iconfont) with the last [online-font](https://fonts.googleapis.com/icon?family=Material+Icons) version.  
 Current online-font version at writting (2018-11-12) is _**v41**_.
 
 Here you will find updated fonts per version:

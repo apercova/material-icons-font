@@ -1,6 +1,6 @@
 # MaterialIcons-Regular font update from [Google web fonts](https://fonts.googleapis.com/icon?family=Material+Icons).
 
-Self-hosting installation instructions are detailed in the official Material Icons on section [Setup Method 2. Self hosting](https://google.github.io/material-design-icons/)
+Self-hosting installation instructions are detailed in the official Material Icons docs on [Setup Method 2. Self hosting](https://google.github.io/material-design-icons/) section
 
 Google has not updated font files in their [repo](https://github.com/google/material-design-icons/tree/master/iconfont) with the last [online-font](https://fonts.googleapis.com/icon?family=Material+Icons) version.  
 Current online-font version at writting (2018-11-12) is _**v41**_.
@@ -18,7 +18,7 @@ CSS rules described in the official docs are still valid.
 ---
 # Actualización de fuente MaterialIcons-Regular desde [Google web fonts](https://fonts.googleapis.com/icon?family=Material+Icons).
 
-Las instrucciones para de usar la fuente **MaterialIcons-Regular** para self-hosting se detallan en la documentación oficial de Material Icons en la sección [Setup Method 2. Self hosting](https://google.github.io/material-design-icons/)
+Las instrucciones para usar la fuente **MaterialIcons-Regular** para self-hosting se detallan en la documentación oficial de Material Icons en la sección [Setup Method 2. Self hosting](https://google.github.io/material-design-icons/)
 
 Sin embargo, Google no ha actualizado las fuentes en su [repositorio](https://github.com/google/material-design-icons/tree/master/iconfont) con la última versión de la [fuente online](https://fonts.googleapis.com/icon?family=Material+Icons)  
 A la fecha (2018-11-20), la versión de la fuente online es la _**v41**_.
